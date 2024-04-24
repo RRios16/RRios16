@@ -35,9 +35,9 @@
 
 ## Contacto
 
-- ✉️ **Correo Electrónico**: [Tu Correo Electrónico]
-- 🔗 **Perfil de LinkedIn**: [Enlace a tu perfil de LinkedIn]
-- 🌐 **Sitio Web Personal/Blog**: [Enlace a tu sitio web personal o blog, si lo tienes]
+- ✉️ **Correo Electrónico**: rjonathanrl@gmail.com
+- 🔗 **Perfil de LinkedIn**: www.linkedin.com/in/rios-rogelio
+- 🌐 **Sitio Web Personal/Blog**: en construccion 
 
 ¡Estoy emocionado por conectar y colaborar en proyectos interesantes!
 
