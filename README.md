@@ -11,19 +11,19 @@
 - 🛠️ **Frameworks**: [Lista de frameworks que dominas]
 - 📊 **Bases de Datos**: SQL Server
 
-## Proyectos Destacados
+<!--## Proyectos Destacados
 
-### [Nombre del Proyecto 1]
-
-- **Descripción**: Breve descripción del proyecto y su propósito.
-- **Tecnologías Utilizadas**: Lista de tecnologías utilizadas en el proyecto.
-- **Enlace al Proyecto**: [Enlace al repositorio o sitio web del proyecto]
-
-### [Nombre del Proyecto 2]
+### ETL de un datates con python para su uso en Power BI
 
 - **Descripción**: Breve descripción del proyecto y su propósito.
 - **Tecnologías Utilizadas**: Lista de tecnologías utilizadas en el proyecto.
 - **Enlace al Proyecto**: [Enlace al repositorio o sitio web del proyecto]
+
+### Video Juego space game
+
+- **Descripción**: Breve descripción del proyecto y su propósito.
+- **Tecnologías Utilizadas**: Lista de tecnologías utilizadas en el proyecto.
+- **Enlace al Proyecto**: [Enlace al repositorio o sitio web del proyecto] -->
 
 ## Habilidades Blandas
 
@@ -48,17 +48,3 @@
 
 
 
-<!--
-**RRios16/RRios16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
--->
